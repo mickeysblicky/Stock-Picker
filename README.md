@@ -1,1 +1,1 @@
-# Stock-Picker
+# stock-picker
